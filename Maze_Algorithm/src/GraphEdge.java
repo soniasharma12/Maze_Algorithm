@@ -1,9 +1,4 @@
 /*
- * Name: Sonia Sharma
- * Date: Tuesday Dec. 5th, 2023
- * Course: CS 2210 A
- * Assignment: Assignment 5
- * File: GraphEdge.java
  * Description: This class represents an edge of the graph
  * */
 
