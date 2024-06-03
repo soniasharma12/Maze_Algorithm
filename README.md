@@ -1,7 +1,7 @@
 # Maze_Algorithm
 
 ## Overview 
-### This project is an implementation of a maze-solving algorithm in Java. The program reads a maze from an input file, represents it as an undirected graph, and finds a path from the entrance to the exit, considering the constraints of opening doors with limited coins
+#### This project is an implementation of a maze-solving algorithm in Java. The program reads a maze from an input file, represents it as an undirected graph, and finds a path from the entrance to the exit, considering the constraints of opening doors with limited coins
 
 ## Tools Used 
 - Java: The primary programming language used for the implementation
@@ -9,7 +9,7 @@
 - Java Collections Framework: Used for storing and managing graph data structures (e.g., ArrayList, Stack, and Iterator)
 
 ## Algorithm 
-### The maze-solving algorithm utilizes a modified Depth-First Search (DFS). This method traverses the graph while monitoring the number of coins spent on opening doors. If a path exhausts the available coins, the algorithm backtracks and explores alternative paths. The essential steps are:
+#### The maze-solving algorithm utilizes a modified Depth-First Search (DFS). This method traverses the graph while monitoring the number of coins spent on opening doors. If a path exhausts the available coins, the algorithm backtracks and explores alternative paths. The essential steps are:
 - Parse the input file to build the graph.
 - Implement DFS to discover a path from the entrance to the exit, considering the coin constraint.
 - Track the current path and employ backtracking when necessary.
