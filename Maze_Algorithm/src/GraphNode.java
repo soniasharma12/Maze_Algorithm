@@ -1,9 +1,4 @@
 /*
- * Name: Sonia Sharma
- * Date: Tuesday Dec. 5th, 2023
- * Course: CS 2210 A
- * Assignment: Assignment 5
- * File: GraphNode.java
  * Description: This class represent a node of the graph.
  * */
 
