@@ -1,9 +1,4 @@
 /*
- * Name: Sonia Sharma
- * Date: Tuesday Dec. 5th, 2023
- * Course: CS 2210 A
- * Assignment: Assignment 5
- * File: Maze.java
  * Description: This class represents the maze. An object of the class Graph will be used to store the maze and to find a solution for it
  * */
 
