@@ -1,9 +1,4 @@
 /*
- * Name: Sonia Sharma
- * Date: Tuesday Dec. 5th, 2023
- * Course: CS 2210 A
- * Assignment: Assignment 5
- * File: Graph.java
  * Description: This class represents the graph, which is an adjacency matrix 
  * */
 
